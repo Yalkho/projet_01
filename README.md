@@ -40,3 +40,5 @@ Column 1|Column 2|Column 3
 *Info 1*|*Info 2*|*Info 3*
 *Info 4*|*Info 5*|*Info 6*
 
+![projet_image](./web-g036d2af59_640.jpg "projet image")
+
